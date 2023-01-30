@@ -1,1 +1,1 @@
-# psy8960-week3
+# Week3 project
